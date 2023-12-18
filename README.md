@@ -1,2 +1,2 @@
-Slides on the Superword Level Parallelism (SLP) Vectorizer in LLVM, created for the COL731 course.
+Slides on the paper "Exploiting Superword Level Parallelism with Multimedia Instruction Sets" by Samuel Larsen and Saman Amarasinghe. This presentation was made for the course COL731: Advanced Compiler Techniques. 
 
